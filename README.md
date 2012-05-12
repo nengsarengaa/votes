@@ -1,0 +1,4 @@
+votes
+=====
+
+votes the invitation
